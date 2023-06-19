@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.App-header-start {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,6 +22,19 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  overflow: auto;
+}
+
+.App-header-game {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 20px;
+  gap: 10px;
+  overflow: auto;
 }
 
 .App-link {
@@ -35,4 +48,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/* Add Animation */
+@keyframes animatetop {
+  from {top: -300px; opacity: 0}
+  to {top: 0px; opacity: 1}
+}
+
+.winScreen {
+  text-align: center;
+  display: none;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, .9);
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
