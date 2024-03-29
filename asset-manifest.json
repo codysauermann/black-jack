@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/black-jack/static/css/main.3fa60d65.css",
+    "main.js": "/black-jack/static/js/main.866be260.js",
+    "static/js/787.edf34515.chunk.js": "/black-jack/static/js/787.edf34515.chunk.js",
+    "static/media/startcards.png": "/black-jack/static/media/startcards.fade2d6984a4dbb34d2f.png",
+    "static/media/queen_of_hearts2.png": "/black-jack/static/media/queen_of_hearts2.746a7ee8eaded6c7944b.png",
+    "static/media/jack_of_diamonds2.png": "/black-jack/static/media/jack_of_diamonds2.afe516e95a5f8a0fb455.png",
+    "static/media/king_of_spades2.png": "/black-jack/static/media/king_of_spades2.fda148e5425c266a3a81.png",
+    "static/media/cardback.png": "/black-jack/static/media/cardback.9d5277b507197bdd15e2.png",
+    "static/media/ace_of_spades.png": "/black-jack/static/media/ace_of_spades.a24049b6038d0a8b2cc2.png",
+    "static/media/10_of_clubs.png": "/black-jack/static/media/10_of_clubs.1e849b9251f1cca97075.png",
+    "static/media/9_of_spades.png": "/black-jack/static/media/9_of_spades.dcce4a160670652e0ffe.png",
+    "static/media/8_of_hearts.png": "/black-jack/static/media/8_of_hearts.cff7b360d1e2e4a7a364.png",
+    "static/media/6_of_clubs.png": "/black-jack/static/media/6_of_clubs.b44599ca5e9e11e61863.png",
+    "static/media/7_of_diamonds.png": "/black-jack/static/media/7_of_diamonds.fe13bd1ba1c4b66c99d1.png",
+    "static/media/5_of_spades.png": "/black-jack/static/media/5_of_spades.bffe8ee0a4cc67bced90.png",
+    "static/media/4_of_hearts.png": "/black-jack/static/media/4_of_hearts.436fe356aa88903aedfa.png",
+    "static/media/3_of_diamonds.png": "/black-jack/static/media/3_of_diamonds.b78fe80c763b6f828c0e.png",
+    "static/media/2_of_clubs.png": "/black-jack/static/media/2_of_clubs.d5d968ca8003810f50d6.png",
+    "index.html": "/black-jack/index.html",
+    "main.3fa60d65.css.map": "/black-jack/static/css/main.3fa60d65.css.map",
+    "main.866be260.js.map": "/black-jack/static/js/main.866be260.js.map",
+    "787.edf34515.chunk.js.map": "/black-jack/static/js/787.edf34515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa60d65.css",
+    "static/js/main.866be260.js"
+  ]
+}
